@@ -4,3 +4,4 @@ mysql-connector-python==8.0.31
 Pillow==9.5.0
 sqlparse==0.4.4
 tzdata==2023.3
+library==0.0.0
